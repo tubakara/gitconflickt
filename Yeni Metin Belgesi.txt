@@ -1,3 +1,7 @@
 git gitHub 2. gun
 git ikinci gun dorduncu deneme TUGBA BRANCH
+<<<<<<< HEAD
 git ikinci gun dorduncu deneme MASTER BRANCH
+=======
+git ikinci gun dorduncu deneme MASTER BRANCH 2
+>>>>>>> master
