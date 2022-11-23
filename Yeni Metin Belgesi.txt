@@ -7,3 +7,5 @@ git ikinci gun dorduncu deneme MASTER BRANCH 2
 >>>>>>> master
 git tugba branci kacinci deneme
 Master branch yeni ekleme
+3. gun tugba branci ilk deneme
+
